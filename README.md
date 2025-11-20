@@ -1,6 +1,6 @@
 # CUDA Project - Bend Parallel Algorithms Benchmark
 
-Este projeto faz benchmark do algoritmo Bitonic Sort usando Bend (HVM) e compara o desempenho entre diferentes backends de execução: interpretador Rust (sequencial), interpretador C (CPU paralelo), interpretador CUDA (GPU) e implementação nativa CUDA. Trabalho realizado para a matéria de Arquitetura avançadas de Computação.
+Este projeto faz benchmark do algoritmo Bitonic Sort usando a linguagem de programação nativamente paralela [Bend](https://github.com/HigherOrderCO/Bend) ([HVM](https://github.com/HigherOrderCO/HVM)) e compara o desempenho entre diferentes backends de execução: interpretador Rust (sequencial), interpretador C (CPU paralelo), interpretador CUDA (GPU) e implementação nativa CUDA. Trabalho realizado para a matéria de Arquitetura avançadas de Computação.
 
 ## Sobre o Projeto
 
